@@ -1,5 +1,9 @@
 # 🍔 Restaurant Operations & Sales Analysis | Big Data Case Study
 
+<p align="center">
+  <img src="project-pipeline.png" width="1000" title="Project Pipeline">
+</p>
+
 ## 📌 Project Overview
 An end-to-end Data Engineering and Business Intelligence project designed to handle over **11 Million+ orders**. The project leverages the **Medallion Architecture** on **Databricks** to process large-scale restaurant data, delivering actionable insights through a high-performance **Power BI** Dashboard.
 
@@ -40,7 +44,8 @@ The reporting layer consists of 4 specialized dashboards designed for executive 
 
 ## 📁 Repository Structure
 ```text
-├── notebooks/          # Databricks Notebooks (.py/.sql)
-├── powerbi/            # Power BI Desktop File (.pbix)
-├── assets/             # Dashboard Screenshots & Icons
+├── Notebooks/          # Databricks Notebooks (.py/.sql)
+├── PowerBI/            # Power BI Desktop File (.pbix)
+├── ScreenShots/             # Dashboard Screenshots & data and modeling
+└── project-pipeline.png
 └── README.md           # Project Documentation
